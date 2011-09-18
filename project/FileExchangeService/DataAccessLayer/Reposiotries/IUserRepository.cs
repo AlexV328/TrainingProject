@@ -3,7 +3,7 @@ using DataAccessLayer.Entities;
 
 namespace DataAccessLayer.Reposiotries
 {
-    public interface IUserReposioty
+    public interface IUserRepository
     {
         User SearchByID(Guid id);
     }
