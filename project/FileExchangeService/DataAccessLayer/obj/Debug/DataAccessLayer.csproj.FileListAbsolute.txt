@@ -1,0 +1,5 @@
+d:\Study\University\7\Testing\Project\TrainingProject\project\FileExchangeService\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+d:\Study\University\7\Testing\Project\TrainingProject\project\FileExchangeService\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+d:\Study\University\7\Testing\Project\TrainingProject\project\FileExchangeService\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+d:\Study\University\7\Testing\Project\TrainingProject\project\FileExchangeService\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+d:\Study\University\7\Testing\Project\TrainingProject\project\FileExchangeService\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,7 @@
+D:\Study\University\7\Testing\Project\TrainingProject\project\FileExchangeService\WebUI\bin\WebUI.dll
+D:\Study\University\7\Testing\Project\TrainingProject\project\FileExchangeService\WebUI\bin\WebUI.pdb
+D:\Study\University\7\Testing\Project\TrainingProject\project\FileExchangeService\WebUI\bin\EntityFramework.dll
+D:\Study\University\7\Testing\Project\TrainingProject\project\FileExchangeService\WebUI\bin\EntityFramework.xml
+D:\Study\University\7\Testing\Project\TrainingProject\project\FileExchangeService\WebUI\obj\Debug\ResolveAssemblyReference.cache
+D:\Study\University\7\Testing\Project\TrainingProject\project\FileExchangeService\WebUI\obj\Debug\WebUI.dll
+D:\Study\University\7\Testing\Project\TrainingProject\project\FileExchangeService\WebUI\obj\Debug\WebUI.pdb
