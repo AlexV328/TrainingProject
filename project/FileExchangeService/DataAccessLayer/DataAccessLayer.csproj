@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Entities\User.cs" />
     <Compile Include="Reposiotries\IUserReposioty.cs" />
+    <Compile Include="UnitOfWork\EF\FileExchangeContext.cs" />
     <Compile Include="UnitOfWork\IUnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

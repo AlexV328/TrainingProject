@@ -1,17 +1,11 @@
 <Configuration>
   <RecentFiles>
     <RecentFiles>
-      <File id="4CFD4D99-3A29-47D8-9723-43533EA116B4/d:UnitOfWork/f:IUnitOfWork.cs" caret="21" fromTop="0" />
-      <File id="4CFD4D99-3A29-47D8-9723-43533EA116B4/d:Reposiotries/f:IUserReposioty.cs" caret="170" fromTop="7" />
-      <File id="4CFD4D99-3A29-47D8-9723-43533EA116B4/d:Entities/f:User.cs" caret="84" fromTop="5" />
-      <File id="B127CA75-18AA-4D19-ACCC-4E0A1E2C39EA/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+      <File id="4CFD4D99-3A29-47D8-9723-43533EA116B4/d:Entities/f:User.cs" caret="321" fromTop="12" />
+      <File id="4CFD4D99-3A29-47D8-9723-43533EA116B4/d:UnitOfWork/d:EF/f:FileExchangeContext.cs" caret="80" fromTop="2" />
     </RecentFiles>
     <RecentEdits>
-      <File id="4CFD4D99-3A29-47D8-9723-43533EA116B4/d:UnitOfWork/f:IUnitOfWork.cs" caret="90" fromTop="4" />
-      <File id="4CFD4D99-3A29-47D8-9723-43533EA116B4/d:UnitOfWork/f:IUnitOfWork.cs" caret="0" fromTop="0" />
-      <File id="4CFD4D99-3A29-47D8-9723-43533EA116B4/d:Entities/f:User.cs" caret="321" fromTop="10" />
-      <File id="4CFD4D99-3A29-47D8-9723-43533EA116B4/d:Reposiotries/f:IUserReposioty.cs" caret="170" fromTop="7" />
-      <File id="4CFD4D99-3A29-47D8-9723-43533EA116B4/d:Entities/f:User.cs" caret="84" fromTop="5" />
+      <File id="4CFD4D99-3A29-47D8-9723-43533EA116B4/d:Entities/f:User.cs" caret="362" fromTop="12" />
     </RecentEdits>
   </RecentFiles>
   <CompletionStatisticsManager>
